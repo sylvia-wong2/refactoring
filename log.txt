@@ -12,3 +12,9 @@ bc8f699 Task 2.1
 854be98 Task 1.2
 b1ae551 Task 1.1
 30cca7a Initial commit
+bf4c745 (HEAD -> main, origin/main, origin/HEAD) Task 2.3
+5172500 Task 2.2
+bc8f699 Task 2.1
+854be98 Task 1.2
+b1ae551 Task 1.1
+30cca7a Initial commit
